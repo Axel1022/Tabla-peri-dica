@@ -1,0 +1,514 @@
+
+/* Columna 1 */
+.h {
+  grid-column: 1;
+  grid-row: 1;
+}
+.Li {
+  grid-column: 1;
+  grid-row: 2;
+}
+.Na {
+  grid-column: 1;
+  grid-row: 3;
+}
+.K {
+  grid-column: 1;
+  grid-row: 4;
+}
+.Rb {
+  grid-column: 1;
+  grid-row: 5;
+}
+.Cs {
+  grid-column: 1;
+  grid-row: 6;
+}
+.Fr {
+  grid-column: 1;
+  grid-row: 7;
+}
+/* Columna 2 */
+.Be {
+  grid-column: 2;
+  grid-row: 2;
+}
+.Mg {
+  grid-column: 2;
+  grid-row: 3;
+}
+.Ca {
+  grid-column: 2;
+  grid-row: 4;
+}
+.Sr {
+  grid-column: 2;
+  grid-row: 5;
+}
+.Ba {
+  grid-column: 2;
+  grid-row: 6;
+}
+.Ra {
+  grid-column: 2;
+  grid-row: 7;
+}
+
+/* !Columna 3*/
+
+.Sc {
+  grid-column: 3;
+  grid-row: 4;
+}
+.Y {
+  grid-column: 3;
+  grid-row: 5;
+}
+.La-Lu {
+  grid-column: 3;
+  grid-row: 6;
+}
+.Ac-Lr {
+  grid-column: 3;
+  grid-row: 7;
+}
+
+/*! Columna 4*/
+.Ti {
+  grid-column: 4;
+  grid-row: 4;
+}
+.Zr {
+  grid-column: 4;
+  grid-row: 5;
+}
+.Hf {
+  grid-column: 4;
+  grid-row: 6;
+}
+.Rf {
+  grid-column: 4;
+  grid-row: 7;
+}
+.La {
+  grid-column: 4;
+  grid-row: 11;
+}
+.Ac {
+  grid-column: 4;
+  grid-row: 12;
+}
+
+/*! Columna 5*/
+.V {
+  grid-column: 5;
+  grid-row: 4;
+}
+.Nb {
+  grid-column: 5;
+  grid-row: 5;
+}
+.Ta {
+  grid-column: 5;
+  grid-row: 6;
+}
+.Db {
+  grid-column: 5;
+  grid-row: 7;
+}
+.Ce {
+  grid-column: 5;
+  grid-row: 11;
+}
+.Th {
+  grid-column: 5;
+  grid-row: 12;
+}
+
+/*! Columna 6*/
+.Cr {
+  grid-column: 6;
+  grid-row: 4;
+}
+.Mo {
+  grid-column: 6;
+  grid-row: 5;
+}
+.W {
+  grid-column: 6;
+  grid-row: 6;
+}
+.Sg {
+  grid-column: 6;
+  grid-row: 7;
+}
+.Nd {
+  grid-column: 6;
+  grid-row: 11;
+}
+.Pa {
+  grid-column: 6;
+  grid-row: 12;
+}
+
+/*! Columna 7*/
+.Mn {
+  grid-column: 7;
+  grid-row: 4;
+}
+.Tc {
+  grid-column: 7;
+  grid-row: 5;
+}
+.Re {
+  grid-column: 7;
+  grid-row: 6;
+}
+.Bh {
+  grid-column: 7;
+  grid-row: 7;
+}
+.Pm {
+  grid-column: 7;
+  grid-row: 11;
+}
+.U {
+  grid-column: 7;
+  grid-row: 12;
+}
+
+/*! Columna 7*/
+.Fe {
+  grid-column: 7;
+  grid-row: 4;
+}
+.Ru {
+  grid-column: 7;
+  grid-row: 5;
+}
+.Os {
+  grid-column: 7;
+  grid-row: 6;
+}
+.Hs {
+  grid-column: 7;
+  grid-row: 7;
+}
+.Sm {
+  grid-column: 7;
+  grid-row: 11;
+}
+.Np {
+  grid-column: 7;
+  grid-row: 12;
+}
+
+/*! Columna 8*/
+.Co {
+  grid-column: 8;
+  grid-row: 4;
+}
+.Rh {
+  grid-column: 8;
+  grid-row: 5;
+}
+.Ir {
+  grid-column: 8;
+  grid-row: 6;
+}
+.Mt {
+  grid-column: 8;
+  grid-row: 7;
+}
+.Eu {
+  grid-column: 8;
+  grid-row: 11;
+}
+.Pu {
+  grid-column: 8;
+  grid-row: 12;
+}
+
+/*! Columna 9*/
+.Ni {
+  grid-column: 9;
+  grid-row: 4;
+}
+.Pd {
+  grid-column: 9;
+  grid-row: 5;
+}
+.Pt {
+  grid-column: 9;
+  grid-row: 6;
+}
+.Ds {
+  grid-column: 9;
+  grid-row: 7;
+}
+.Gd {
+  grid-column: 9;
+  grid-row: 11;
+}
+.Am {
+  grid-column: 9;
+  grid-row: 12;
+}
+
+/*! Columna 10*/
+.Cu {
+  grid-column: 10;
+  grid-row: 4;
+}
+.Ag {
+  grid-column: 10;
+  grid-row: 5;
+}
+.Au {
+  grid-column: 10;
+  grid-row: 6;
+}
+.Rg {
+  grid-column: 10;
+  grid-row: 7;
+}
+.Tb {
+  grid-column: 10;
+  grid-row: 11;
+}
+.Cm {
+  grid-column: 10;
+  grid-row: 12;
+}
+
+/*! Columna 11*/
+.Zn {
+  grid-column: 11;
+  grid-row: 4;
+}
+.Cd {
+  grid-column: 11;
+  grid-row: 5;
+}
+.Hg {
+  grid-column: 11;
+  grid-row: 6;
+}
+.Cn {
+  grid-column: 11;
+  grid-row: 7;
+}
+.Dy {
+  grid-column: 11;
+  grid-row: 11;
+}
+.Bk {
+  grid-column: 11;
+  grid-row: 12;
+}
+
+/* Columna 12 */
+.B {
+  grid-column: 12;
+  grid-row: 2;
+}
+.Al {
+  grid-column: 12;
+  grid-row: 3;
+}
+.Ga {
+  grid-column: 12;
+  grid-row: 4;
+}
+.In {
+  grid-column: 12;
+  grid-row: 5;
+}
+.Tl {
+  grid-column: 12;
+  grid-row: 6;
+}
+.Nh {
+  grid-column: 12;
+  grid-row: 7;
+}
+.Ho {
+  grid-column: 12;
+  grid-row: 11;
+}
+.Cf {
+  grid-column: 12;
+  grid-row: 12;
+}
+
+/*! Columna 13 */
+.C {
+  grid-column: 13;
+  grid-row: 2;
+}
+.Si {
+  grid-column: 13;
+  grid-row: 3;
+}
+.Ge {
+  grid-column: 13;
+  grid-row: 4;
+}
+.Sn {
+  grid-column: 13;
+  grid-row: 5;
+}
+.Pb {
+  grid-column: 13;
+  grid-row: 6;
+}
+.Fl {
+  grid-column: 13;
+  grid-row: 7;
+}
+.Er {
+  grid-column: 13;
+  grid-row: 11;
+}
+.Es {
+  grid-column: 13;
+  grid-row: 12;
+}
+
+/* Columna 14 */
+.N {
+  grid-column: 14;
+  grid-row: 2;
+}
+.P {
+  grid-column: 14;
+  grid-row: 3;
+}
+.As {
+  grid-column: 14;
+  grid-row: 4;
+}
+.Sb {
+  grid-column: 14;
+  grid-row: 5;
+}
+.Bi {
+  grid-column: 14;
+  grid-row: 6;
+}
+.Mc {
+  grid-column: 14;
+  grid-row: 7;
+}
+.Tm {
+  grid-column: 14;
+  grid-row: 11;
+}
+.Fm {
+  grid-column: 14;
+  grid-row: 12;
+}
+/* Columna 15 */
+.O {
+  grid-column: 15;
+  grid-row: 2;
+}
+.S {
+  grid-column: 15;
+  grid-row: 3;
+}
+.Se {
+  grid-column: 15;
+  grid-row: 4;
+}
+.Te {
+  grid-column: 15;
+  grid-row: 5;
+}
+.Po {
+  grid-column: 15;
+  grid-row: 6;
+}
+.Lv {
+  grid-column: 15;
+  grid-row: 7;
+}
+.Yb {
+  grid-column: 15;
+  grid-row: 11;
+}
+.Md {
+  grid-column: 15;
+  grid-row: 12;
+}
+
+/* Columna 16 */
+.F {
+  grid-column: 16;
+  grid-row: 2;
+}
+.Cl {
+  grid-column: 16;
+  grid-row: 3;
+}
+.Br {
+  grid-column: 16;
+  grid-row: 4;
+}
+.I {
+  grid-column: 16;
+  grid-row: 5;
+}
+.At {
+  grid-column: 16;
+  grid-row: 6;
+}
+.Ts {
+  grid-column: 16;
+  grid-row: 7;
+}
+.Lu {
+  grid-column: 16;
+  grid-row: 11;
+}
+.No {
+  grid-column: 16;
+  grid-row: 12;
+}
+/* Columna 17 */
+.He {
+  grid-column: 17;
+  grid-row: 1;
+}
+.Ne {
+  grid-column: 17;
+  grid-row: 2;
+}
+.Ar {
+  grid-column: 17;
+  grid-row: 3;
+}
+.Kr {
+  grid-column: 17;
+  grid-row: 4;
+}
+.Xe {
+  grid-column: 17;
+  grid-row: 5;
+}
+.Rn {
+  grid-column: 17;
+  grid-row: 6;
+}
+.Og {
+  grid-column: 17;
+  grid-row: 7;
+}
+.Pr {
+  grid-column: 17;
+  grid-row: 11;
+}
+.Lr {
+  grid-column: 17;
+  grid-row: 12;
+}

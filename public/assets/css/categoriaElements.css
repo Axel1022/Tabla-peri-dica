@@ -1,0 +1,31 @@
+
+.categoria-metal-alcalino {
+  background-color: rgb(193, 159, 200); /* Color para metales alcalinos */
+}
+.categoria-metal-alcalinoterreo {
+  background-color: rgb(214, 161, 196); /* Color para metales alcalinotérreos */
+}
+.categoria-lantanido {
+  background-color: rgb(221, 157, 95); /* Color para lantánidos */
+}
+.categoria-actinido {
+  background-color: rgb(215, 146, 130); /* Color para actínidos */
+}
+.categoria-metales-transicion {
+  background-color: rgb(234, 187, 80); /* Color para metales de transición */
+}
+.categoria-metalaloides {
+  background-color: rgb(214, 218, 96); /* Color para metales */
+}
+.categoria-halogeno {
+  background-color: rgb(161, 201, 201); /* Color para halógenos */
+}
+.categoria-gas-noble {
+  background-color: rgb(160, 194, 231); /* Color para gases nobles */
+}
+.categoria-NOMETALES {
+  background-color: rgb(247, 218, 61); /* Color para metales del bloque p */
+}
+.categoria-oTROSMETALES {
+  background-color: rgb(141, 184, 136); /* Color para metales del bloque p */
+}

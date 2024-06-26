@@ -1,0 +1,71 @@
+body {
+  position: relative;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.contenedor {
+  margin-bottom: 5px;
+}
+h1 {
+  color: #000000;
+  margin-top: 20px;
+}
+.container {
+  display: grid;
+  grid-template-columns: repeat(18, 50px);
+  gap: 5px;
+  padding: 5px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.element {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 50px;
+  height: 60px;
+  padding: 0px;
+}
+.leyend {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 75px;
+  height: 30px;
+  margin-left: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.leyendConteiner {
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1px;
+  margin-bottom: 20px;
+}
+.element {
+  transition: transform 0.1s ease, box-shadow 0.3s ease;
+}
+.element:hover {
+  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.432);
+  transform: scale(2.5);
+  cursor: pointer;
+}
+
+footer {
+    position: absolute;
+    bottom: 1em;
+    text-align: center;
+    font-size: 0.8em;
+    color: #777;
+}

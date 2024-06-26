@@ -1,0 +1,26 @@
+
+
+.atomic-number {
+  font-size: 10px;
+  font-weight: bold;
+  color: #555;
+  line-height: 20px;
+}
+.symbol {
+  font-size: 18px;
+  font-weight: bold;
+  color: #333;
+  line-height: 30px;
+}
+.name {
+  font-size: 9px;
+  color: #777;
+  line-height: 5px;
+}
+.leyend {
+  font-size: 11px;
+  color: #000000;
+  text-align: center;
+  line-height: 50px;
+}
+
