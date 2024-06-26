@@ -58,10 +58,18 @@ node app.js
 - Express
 - Handlebars
 
-
-
 ## 📜 Licencia
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles. 📄
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
+## 🤝 Contribuciones
 
+¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, por favor haz un fork del repositorio y envía un pull request.
+
+## 📧 Contacto
+
+Para cualquier pregunta o comentario, puedes contactar al autor:
+
+- **Nombre**: Gary Alexander Campusano Paredes
+- **Correo**: [ingcampusano@outlook.com](mailto:ingcampusano@outlook.com)
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/in/gary-alexander-campusano-paredes-87a28724a/)
