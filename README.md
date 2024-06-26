@@ -1,5 +1,3 @@
-Aquí tienes el archivo README con emojis incluidos:
-
 # 🌟 Tabla Periódica
 
 Este proyecto es una implementación interactiva de la tabla periódica de los elementos, desarrollada con HTML, CSS y JavaScript. 🚀
