@@ -8,7 +8,6 @@ La aplicación muestra la tabla periódica completa, permitiendo la visualizaci�
 
 ![alt text](image-1.png)
 ![alt text](image.png)
-![alt text](image-2.png)
 
 ## 📂 Estructura del Proyecto
 
