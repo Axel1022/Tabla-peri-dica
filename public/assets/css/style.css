@@ -61,6 +61,15 @@ h1 {
   transform: scale(2.5);
   cursor: pointer;
 }
+.eliminado {
+  background-color: #aaaaaa;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 50px;
+  height: 60px;
+  padding: 0px;
+}
 
 footer {
     position: absolute;

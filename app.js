@@ -5,10 +5,13 @@ const homeRouter = require("./routers/home");
 const app = express();
 const puerto = 8080;
 
+const verificate = require("./helpers/hbs/verific");
+
 
 const hbs = exphbs.create({
   extname: ".hbs",
   defaultLayout: false,
+  helpers: verificate,
 });
 
 app.engine("hbs", hbs.engine);

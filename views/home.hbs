@@ -16,17 +16,15 @@
     <h1>Tabla Periódica</h1>
     <div class="container">
       {{#each elementos as |element|}}
+       {{#if (verificate element.atomic_number)}}
         <div class="element {{element.symbol}} {{element.category}}">
           <span class="atomic-number">{{element.atomic_number}}</span><br />
           <span class="symbol">{{element.symbol}}</span><br />
           <span class="name">{{element.name}}</span>
-          <div class="btnDiv">
-            <button
-              class="{{element.category}} btn-eliminar"
-              onclick="eliminar('{{element.symbol}}','{{element.category}}')"
-            >Eliminar</button>
-          </div>
         </div>
+          {{else}}
+        <div class="element eliminado"></div>
+      {{/if}}
       {{/each}}
     </div>
 

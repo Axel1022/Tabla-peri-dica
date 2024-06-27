@@ -338,12 +338,6 @@ const ElememtsTablaPeriodica = {
     name: "Bario",
     category: "categoria-metal-alcalinoterreo",
   },
-  119: {
-    atomic_number: "57-71",
-    symbol: "La-Lu",
-    name: "Lantanos",
-    category: "categoria-lantanido",
-  },
   57: {
     atomic_number: "57",
     symbol: "La ",
@@ -537,12 +531,6 @@ const ElememtsTablaPeriodica = {
     category: "categoria-metal-alcalinoterreo",
   },
   89: {
-    atomic_number: "89-103",
-    symbol: "Ac-Lr",
-    name: "Actinio",
-    category: "categoria-actinido",
-  },
-  120: {
     atomic_number: 89,
     symbol: "Ac",
     name: "Actinio",
@@ -721,6 +709,18 @@ const ElememtsTablaPeriodica = {
     symbol: "Og",
     name: "Oganesón",
     category: "categoria-gas-noble",
+  },
+  119: {
+    atomic_number: "57-71",
+    symbol: "La-Lu",
+    name: "Lantanos",
+    category: "categoria-lantanido",
+  },
+  120: {
+    atomic_number: "89-103",
+    symbol: "Ac-Lr",
+    name: "Actinio",
+    category: "categoria-actinido",
   },
 };
 
