@@ -6,6 +6,10 @@ Este proyecto es una implementación interactiva de la tabla periódica de los e
 
 La aplicación muestra la tabla periódica completa, permitiendo la visualización de cada elemento con su número atómico, símbolo, nombre y categoría. Los usuarios también pueden eliminar elementos de la tabla a través de un botón interactivo.
 
+![alt text](image-1.png)
+![alt text](image.png)
+![alt text](image-2.png)
+
 ## 📂 Estructura del Proyecto
 
 ```
