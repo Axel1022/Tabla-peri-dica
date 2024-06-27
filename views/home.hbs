@@ -7,24 +7,24 @@
     <meta name="author" content="Gary Campusano" />
     <title>Tabla periódica</title>
     <link rel="stylesheet" href="/assets/css/style.css" />
-    <link rel="stylesheet" href="/assets/css/flexBox.css"/>
-    <link rel="stylesheet" href="/assets/css/categoriaElements.css"/>
-    <link rel="stylesheet" href="/assets/css/btn.css"/>
-    <link rel="stylesheet" href="/assets/css/ContentElement.css"/>
+    <link rel="stylesheet" href="/assets/css/flexBox.css" />
+    <link rel="stylesheet" href="/assets/css/categoriaElements.css" />
+    <link rel="stylesheet" href="/assets/css/btn.css" />
+    <link rel="stylesheet" href="/assets/css/ContentElement.css" />
   </head>
   <body class="contenedor">
     <h1>Tabla Periódica</h1>
     <div class="container">
       {{#each elementos as |element|}}
-       {{#if (verificate element.atomic_number)}}
-        <div class="element {{element.symbol}} {{element.category}}">
-          <span class="atomic-number">{{element.atomic_number}}</span><br />
-          <span class="symbol">{{element.symbol}}</span><br />
-          <span class="name">{{element.name}}</span>
-        </div>
-          {{else}}
-        <div class="element eliminado"></div>
-      {{/if}}
+        {{#if (verificate element.atomic_number)}}
+          <div class="element {{element.symbol}} {{element.category}}">
+            <span class="atomic-number">{{element.atomic_number}}</span><br />
+            <span class="symbol">{{element.symbol}}</span><br />
+            <span class="name">{{element.name}}</span>
+          </div>
+        {{else}}
+          <div class="element eliminado"></div>
+        {{/if}}
       {{/each}}
     </div>
 
